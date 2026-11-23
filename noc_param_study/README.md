@@ -1,3 +1,10 @@
-# NOC Param Study
-
-Original file: [`NOC PARAM STUDY.pdf`](NOC%20PARAM%20STUDY.pdf)
+![page 1](images/page-01.png)
+![page 2](images/page-02.png)
+![page 3](images/page-03.png)
+![page 4](images/page-04.png)
+![page 5](images/page-05.png)
+![page 6](images/page-06.png)
+![page 7](images/page-07.png)
+![page 8](images/page-08.png)
+![page 9](images/page-09.png)
+![page 10](images/page-10.png)
